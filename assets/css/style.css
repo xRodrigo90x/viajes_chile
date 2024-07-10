@@ -1,7 +1,24 @@
-.navbar{
-    background-color: none;    
+body {
+    background-color: black;
 }
 
-#carouselExample{
+.navbar {
+    background-color: none;
+}
+
+#carouselExample {
     position: absolute;
 }
+
+#quienesSomos {
+    margin-top: 65%;
+}
+
+.card-img-top {
+    height: 100%;
+}
+
+i {
+    font-size: 150%;
+}
+
